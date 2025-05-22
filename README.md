@@ -1,4 +1,5 @@
--- Como carregar o código no ESP32
+-- Como carregar o código no ESP32:
+
 Instale o VS Code e a extesão Platformio;
 Entre na aba do Platformio e clique em "Open project" e selecione a pasta do projeto;
 Espere carregar o projeto;
@@ -6,7 +7,7 @@ Conecte o ESP32 ao computador;
 Aperte F1 e rode o comando "Platformio: upload";
 
 
--- Como rodar a interface MQTT
+-- Como rodar a interface MQTT:
 
 Instale o mosquitto com os seguintes comandos:
 
